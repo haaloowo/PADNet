@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /media/yf/CODE/Code/RDAD/myRDAD-complex2-adaptive_memory
+cd #YOUR PATH#
 source activate diad
 python main.py --category carpet
 python main.py --category screw
